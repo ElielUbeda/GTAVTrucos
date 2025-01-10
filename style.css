@@ -20,7 +20,7 @@ img{
 p{
     width: 255px;
     visibility: hidden;
-    font-size: 18px;
+    font-size: 16px;
 }
 .boton:hover{
     background-color: #b3e5ec;
@@ -37,7 +37,7 @@ td{
     width: 50%;
     text-align: center;
     height: 45px;
-    font-size: 18px;
+    font-size: 16px;
 }
 .titulo{
     font-weight: bold;
