@@ -1,0 +1,48 @@
+.contenedor{
+    display: flex;
+}
+img{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    left: 5px;
+    top: 5px;
+}
+#menu{
+    height: 350px;
+}
+.boton{
+    display: flex;
+    text-align: center;
+    height: 50px;
+    width: 50px;
+}
+p{
+    width: 255px;
+    visibility: hidden;
+    font-size: 18px;
+}
+.boton:hover{
+    background-color: #b3e5ec;
+}
+.claves{
+    width: 550px;
+    height: 500px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+td{
+    width: 50%;
+    text-align: center;
+    height: 45px;
+    font-size: 18px;
+}
+.titulo{
+    font-weight: bold;
+}
+.noVisible{
+    visibility: hidden;
+    position: absolute;
+}
